@@ -1,3 +1,3 @@
 <?php
-echo 'Welcome to first repositatory';
+echo 'Welcome to first project in openshift';
 ?>
